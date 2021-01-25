@@ -4,11 +4,10 @@
 ---
 
 <blockquote>
-<p>MIT-6.828-OS-LAB1-Part1&amp;Part2<br>
+<p>MIT-6.828-OS-LAB1-log<br>
 author: galaxyG<br>
 Lab website : <a href="https://pdos.csail.mit.edu/6.828/2018/labs/lab1/">https://pdos.csail.mit.edu/6.828/2018/labs/lab1/</a><br>
-System Environment: Ubuntu 20.04.1 LTS_64-bit<br>
-(i’m not a native speaker, if there is any grammar mistake, pls let me know, thank u!)</p>
+System Environment: Ubuntu 20.04.1 LTS_64-bit</p>
 </blockquote>
 <h2 id="software-setup">Software Setup</h2>
 <blockquote>
@@ -17,8 +16,7 @@ System Environment: Ubuntu 20.04.1 LTS_64-bit<br>
 <p><strong>QEMU installation</strong><br>
 follow this steps: <a href="https://en.wikibooks.org/wiki/QEMU/Linux">wekipidia</a><br>
 （if you encounter any errors here,  just setup the software you need to install according to the error information）</p>
-<h2 id="part-1-pc-bootstrap">Part 1: PC Bootstrap</h2>
-<h3 id="error-log">ERROR LOG</h3>
+<h2 id="error-log">ERROR LOG</h2>
 <p>1 follow the procedure of <a href="https://pdos.csail.mit.edu/6.828/2018/labs/lab1/">lab1 tutorial</a>:</p>
 <p><strong>ERROR 1- about multilib</strong>:</p>
 <blockquote>
